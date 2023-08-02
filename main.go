@@ -8,4 +8,5 @@ func main() {
 	b := 2
 	c := 3
 	zz := 22
+	ttt := 333
 }
